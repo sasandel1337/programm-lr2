@@ -1,0 +1,3 @@
+﻿  lr2.cpp
+C:\Users\HOME\source\repos\lr2\lr2\lr2.cpp(14,13): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  lr2.vcxproj -> C:\Users\HOME\source\repos\lr2\x64\Debug\lr2.exe
